@@ -19,7 +19,7 @@ description: "The website of Child-AI Project"
 minimal_mistakes_skin: default
 url: https://child-ai.github.io
 repository: Child-AI/child-ai
-logo: "/assets/images/logo2.png"
+logo: "/assets/images/Child-AI-logo.png"
 
 # Build settings
 markdown: kramdown

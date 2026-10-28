@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 header:
     overlay_color: "#000"
-    overlay_image: /assets/images/child-robot.jpg
+    overlay_image: /assets/images/final_CH_5069.jpg
     overlay_filter: "0.5"
 ---
 

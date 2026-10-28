@@ -3,7 +3,7 @@ title: Child-AI
 layout: splash
 permalink: /
 header:
-    image: /assets/images/child-robot.jpg
+    image: /assets/images/final_CH_5069.jpg
 ---
 <h1 style="color:#E58668;">Child-AI: Child Development in the Age of AI and Social Robots</h1>
 
