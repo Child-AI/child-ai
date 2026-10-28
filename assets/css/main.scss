@@ -55,3 +55,27 @@ a:hover {
 strong {
   color: #12344D;
 }
+
+/* Navigation bar */
+
+.masthead {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.site-title,
+.site-title:visited {
+    font-size: 1.3rem;
+  font-weight: 700;
+  color: #12344D !important;
+  font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  font-weight: 600;
+}
+
+.greedy-nav a {
+  color: #12344D !important;
+  font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+}
+
+.greedy-nav a:hover {
+  color: #1F7A8C !important;
+}
