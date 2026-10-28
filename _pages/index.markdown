@@ -1,41 +1,75 @@
 ---
-title: MICRO
+title: Child-AI
 layout: splash
 permalink: /
 header:
     image: /assets/images/child-robot.jpg
 ---
-<h1 style="color:#E58668;">MICRO: Measuring children’s wellbeing and mental health with social robots</h1>
+<h1 style="color:#E58668;">Child-AI: Child Development in the Age of AI and Social Robots</h1>
 
-The MICRO project aims to advance knowledge on how linguistic abilities and the ability to successfully engage in social interactions affect children’s wellbeing and mental health. To achieve this objective, the project will explore the use of social robots as new tools to measure children’s wellbeing and mental health in a school context. This will be done with a particular focus on vulnerable groups that are potential targets for preventative interventions, such as children with DLD and refugee children.
+Understanding how artificial intelligence and social robots shape children's development, learning, and wellbeing.
+
+The Child-AI project investigates how children develop and learn in a world increasingly shaped by artificial intelligence and social robots. The project explores how interactions with AI systems influence children's AI literacy, socio-emotional development, critical thinking, health, and wellbeing. Through an interdisciplinary collaboration spanning developmental psychology, cognitive science, social robotics, education, ethics, and AI policy, Child-AI aims to understand both the opportunities and risks associated with children's interaction with AI, and to develop evidence-based guidelines for the ethical design and implementation of AI systems that support children's learning, development, wellbeing and future participation in society.
+
+<h3 style="color:#E58668;">RESEARCH THEMES</h3>
+
+<ul>
+<li><strong>AI Literacy</strong></li>
+<li><strong>Socio-Emotional Development</strong></li>
+<li><strong>Cognitive Skills and Wellbeing</strong></li>
+</ul>
+
+<br>
+
+<h3 style="color:#E58668;">EXPECTED CONTRIBUTIONS</h3>
+
+• Understanding children's AI literacy development
+
+• Guidelines for Child-AI interaction design
+
+• Design framework for AI and social robots in learning and health contexts
+
+• Recommendations for AI policy and ethical implementation
+
+• Guidance for parents, educators, developers, and policymakers
 
 <h3 style="color:#E58668;">CONSORTIUM</h3>
 
-The MICRO consortium brings together researchers from the following institutions:
-* Uppsala University, Sweden
-* ETH Zürich, Switzerland
-* Bielefeld University, Germany
-* University of Cambridge, United Kingdom
+The Child-AI project brings together researchers from the following institutions in Sweden:
+* Uppsala University
+* Linköping University
+* Umeå University
+* KTH Royal Institute of Technology
+* Lund University
 
-**Project coordinator:** Ginevra Castellano, Uppsala University
+Principal Investigators: 
 
-<h3 style="color:#E58668;">ASSOCIATE PARTNERS</h3>
+* Ginevra Castellano, Uppsala University
+* Tom Ziemke, Linköping University
+* Helena Lindgren, Umeå University
+* Olov Engwall, KTH Royal Institute of Technology
+* Valentina Fantasia, Lund University
 
-The project is also supported by associate partners from academic and non-academic organizations:
-* E-DLD (Engage with Developmental Language Disorder), United Kingdom
-* Barnens Rätt i Samhället (BRIS), Sweden
-* UNESCO, France
-* Place2Be, United Kingdom
-* Kaleido, Switzerland
-* WOMHER Centre - Women’s Mental Health during the Reproductive Lifespan, Sweden
-* Berkman Klein Centre, Harvard University, USA
+Project coordinator: Ginevra Castellano, Uppsala University
 
-<h3 style="color:#E58668;">FUNDING ORGANSATIONS</h3>
+<h3 style="color:#E58668;">PARTICIPATING RESEARCHERS</h3>
 
-Project MICRO is supported by FORTE, the Swedish Research Council for Health, Working Life and Welfare; SNSF, the Swiss National Science Foundation; DFG, the German Research Foundation; and ESRC, the United Kingdom Research and Innovation–Economic and Social Research Council under [CHANSE ERA-NET Co-fund programme](https://chanse.org), which has received funding from the European Union’s Horizon 2020 Research and Innovation Programme, under Grant Agreement no 101004509.
+* Didem Gurdur Broo, Uppsala University
+* Sandra Friberg, Uppsala University
+* Asta Cekaite, Linköping University
+* Franziska Babel, Linköping University
+* Sam Thellman, Linköping University
+* Erik Domellöf, Umeå University
+* Linnea Karlsson-Wirebring, Umeå University
+* Vera Kaelin, Umeå University
+* Arzu Güneysu, Umeå University
+* Olga Viberg, KTH Royal Institute of Technology
+* Christopher Peters, KTH Royal Institute of Technology
+* André Pereira, KTH Royal Institute of Technology
+* Sarah Gillet, KTH Royal Institute of Technology / MIT
+* Jason Tucker, Lund University / Institute for Futures Studies
 
-<p align="right">
-  <img width="300" src="/assets/images/ec-logo-horiz_en.png" />
-  <img width="300" src="/assets/images/chanse.png" />
-  <img width="150" src="/assets/images/landscape_new+norface_nov2018.png" />
-</p>
+<h3 style="color:#E58668;">FUNDING</h3>
+
+Child-AI is funded through the Wallenberg AI, Autonomous Systems and Software Program – Humanity and Society (WASP-HS). The project brings together researchers from Uppsala University, Linköping University, Umeå University, KTH Royal Institute of Technology, and Lund University to investigate child development in the age of AI and social robots. The project contributes to WASP-HS’s mission of advancing interdisciplinary research on the societal and human consequences of artificial intelligence and autonomous systems.
+
