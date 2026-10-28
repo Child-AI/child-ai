@@ -1,9 +1,10 @@
 ---
-title: People
+title: Child-AI
 layout: single
-permalink: /people/
+permalink: /
+header:
+    image: /assets/images/final_CH_5069.jpg
 ---
-
 ## Principal Investigators
 
 ### Ginevra Castellano

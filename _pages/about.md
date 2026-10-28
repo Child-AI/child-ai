@@ -20,14 +20,14 @@ By combining empirical studies, participatory design approaches, and collaborati
 
 <h3>Research Themes</h3>
 
-AI Literacy
+<strong>AI Literacy</strong>
 
 How children understand, interpret, and develop knowledge about AI systems, including how they learn to critically evaluate AI-generated information and recommendations.
 
-Socio-Emotional Development
+<strong>Socio-Emotional Development</strong>
 
 How interactions with AI systems and social robots influence children's social relationships, empathy, trust, collaboration, and emotional development.
 
-Cognitive Skills and Wellbeing
+<strong>Cognitive Skills and Wellbeing</strong>
 
 How AI technologies affect children's critical thinking, decision-making, health literacy, wellbeing, and other higher-order cognitive skills.
