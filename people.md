@@ -1,9 +1,7 @@
 ---
-title: Child-AI
+title: People
 layout: single
-permalink: /
-header:
-    image: /assets/images/final_CH_5069.jpg
+permalink: /people/
 ---
 ## Principal Investigators
 
