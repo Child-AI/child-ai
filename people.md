@@ -2,28 +2,25 @@
 title: People
 layout: single
 permalink: /people/
+
+header:
+  overlay_image: /assets/images/final_CH_5069.jpg
 ---
 ## Principal Investigators
 
-### Ginevra Castellano
-Uppsala University
+- **Ginevra Castellano**, Uppsala University
+- **Tom Ziemke**, Linköping University
+- **Helena Lindgren**, Umeå University
+- **Olov Engwall**, KTH Royal Institute of Technology
+- **Valentina Fantasia**, Lund University
 
-### Tom Ziemke
-Linköping University
-
-### Helena Lindgren
-Umeå University
-
-### Olov Engwall
-KTH Royal Institute of Technology
-
-### Valentina Fantasia
-Lund University
+---
 
 ## Project Coordinator
 
-**Ginevra Castellano**  
-Uppsala University
+**Ginevra Castellano**, Uppsala University
+
+---
 
 ## Participating Researchers
 
@@ -54,4 +51,3 @@ Uppsala University
 
 ### Lund University
 
-- Jason Tucker
