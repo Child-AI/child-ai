@@ -42,32 +42,8 @@ The Child-AI project brings together researchers from the following institutions
 * KTH Royal Institute of Technology
 * Lund University
 
-Principal Investigators: 
-
-* Ginevra Castellano, Uppsala University
-* Tom Ziemke, Linköping University
-* Helena Lindgren, Umeå University
-* Olov Engwall, KTH Royal Institute of Technology
-* Valentina Fantasia, Lund University
-
 Project coordinator: Ginevra Castellano, Uppsala University
 
-<h3>PARTICIPATING RESEARCHERS</h3>
-
-* Didem Gurdur Broo, Uppsala University
-* Sandra Friberg, Uppsala University
-* Asta Cekaite, Linköping University
-* Franziska Babel, Linköping University
-* Sam Thellman, Linköping University
-* Erik Domellöf, Umeå University
-* Linnea Karlsson-Wirebring, Umeå University
-* Vera Kaelin, Umeå University
-* Arzu Güneysu, Umeå University
-* Olga Viberg, KTH Royal Institute of Technology
-* Christopher Peters, KTH Royal Institute of Technology
-* André Pereira, KTH Royal Institute of Technology
-* Sarah Gillet, KTH Royal Institute of Technology / MIT
-* Jason Tucker, Lund University / Institute for Futures Studies
 
 <h3>FUNDING</h3>
 

@@ -1,11 +1,10 @@
 ---
 title: People
+layout: single
 permalink: /people/
 ---
 
 ## Principal Investigators
-
-The Child-AI project is led by researchers from five Swedish universities:
 
 ### Ginevra Castellano
 Uppsala University
@@ -22,14 +21,10 @@ KTH Royal Institute of Technology
 ### Valentina Fantasia
 Lund University
 
----
-
 ## Project Coordinator
 
 **Ginevra Castellano**  
 Uppsala University
-
----
 
 ## Participating Researchers
 
@@ -61,13 +56,3 @@ Uppsala University
 ### Lund University
 
 - Jason Tucker
-
----
-
-## Participating Institutions
-
-- Uppsala University
-- Linköping University
-- Umeå University
-- KTH Royal Institute of Technology
-- Lund University
