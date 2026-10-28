@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "MICRO"
-name: "MICRO Project"
-description: "The website of MICRO Project"
+title: "Child-AI"
+name: "Child-AI Project"
+description: "The website of Child-AI Project"
 minimal_mistakes_skin: default
-url: https://micro-sr.github.io/
-repository: micro-sr/micro-sr.github.io
+url: https://child-ai.github.io
+repository: Child-AI/child-ai
 logo: "/assets/images/logo2.png"
 
 # Build settings
@@ -79,7 +79,7 @@ footer:
       url: "https://www.linkedin.com/company/chance-micro-project"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/micro-sr"
+      url: "https://github.com/Child-AI/child-ai"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
