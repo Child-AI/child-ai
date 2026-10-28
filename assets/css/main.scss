@@ -10,3 +10,48 @@ $right-sidebar-width: 220px;         // 屏宽 ≥ 80em 时右侧栏宽度，默
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
 @import "minimal-mistakes"; 
+
+
+/* Child-AI styling */
+
+body,
+.page__content {
+  font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  color: #222222;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  font-weight: 600;
+}
+
+h1 {
+  color: #12344D; /* Navy */
+}
+
+h2,
+h3 {
+  color: #E58668; /* Coral */
+}
+
+/* Links */
+a {
+  color: #1F7A8C; /* Teal */
+}
+
+a:hover {
+  color: #12344D; /* Navy */
+}
+
+/* Bold text */
+strong {
+  color: #12344D;
+}

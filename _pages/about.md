@@ -18,7 +18,7 @@ The project brings together researchers from developmental psychology, cognitive
 By combining empirical studies, participatory design approaches, and collaboration with educators, families, policymakers, and technology developers, Child-AI aims to generate evidence-based recommendations for the ethical design and implementation of AI systems that support children's learning, development, wellbeing, and future participation in society.
 
 
-<h3 style="color:#E58668;">Research Themes</h3>
+<h3>Research Themes</h3>
 
 AI Literacy
 
