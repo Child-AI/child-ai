@@ -49,5 +49,4 @@ header:
 - André Pereira
 - Sarah Gillet
 
-### Lund University
 
