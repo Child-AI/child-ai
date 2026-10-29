@@ -9,6 +9,7 @@ header:
 ## Principal Investigators
 
 - **Ginevra Castellano**, Uppsala University
+- **Gustav Gredebäck**, Uppsala University
 - **Tom Ziemke**, Linköping University
 - **Helena Lindgren**, Umeå University
 - **Olov Engwall**, KTH Royal Institute of Technology
@@ -21,6 +22,15 @@ header:
 **Ginevra Castellano**, Uppsala University
 
 ---
+
+## Postdoctoral Researchers
+
+### Uppsala University
+- Minna Nygren
+- Kim Astor
+
+### Linköping University
+- Tugçe Pekçetin
 
 ## Participating Researchers
 
@@ -49,4 +59,5 @@ header:
 - André Pereira
 - Sarah Gillet
 
-
+### Lund University
+- Jason Tucker
